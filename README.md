@@ -18,7 +18,7 @@
  
 <div> 
   <a href="https://www.instagram.com/leandrogabrielrosa/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leandrogsrosa9@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leandrogsrosa9@outlook.com"><img src="https://img.shields.io/badge/-Outlook-blue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-gabriel-da-silva-rosa-94733a151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Leandrogsrosa9/Leandrogsrosa9/blob/output/github-contribution-grid-snake.svg)
